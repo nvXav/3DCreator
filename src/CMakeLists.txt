@@ -1,1 +1,2 @@
-use_cxx11()
+add_subdirectory(ui)
+add_subdirectory(connection)
